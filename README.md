@@ -1,0 +1,2 @@
+# MDGNN
+AAAI 2024 MDGNN paper
